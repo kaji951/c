@@ -67,4 +67,5 @@ char *c_to_str(int c){
   if(c == '2'){
     return("パー");
   }
+  return 0;
 }
